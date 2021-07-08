@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">A passionate frontend and backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Invillia**
-
 - 👨‍💻 All of my projects are available at [https://patrickmota.herokuapp.com/projects](https://patrickmota.herokuapp.com/projects)
 
 - 📝 I regularly write articles on [https://patrickmota.herokuapp.com/blog](https://patrickmota.herokuapp.com/blog)
